@@ -38,7 +38,7 @@ export function load({ params, url }) {
 		case 'download/launcher':
 			redirect(
 				302,
-				`https://github.com/NinjinMC/Ninjin/raw/master/download/NinjinLauncherBootstrap.jar`
+				`https://github.com/Hedaox/Ninjin/raw/master/download/NinjinLauncherBootstrap.jar`
 			);
 		default:
 			redirect(302, `/`);

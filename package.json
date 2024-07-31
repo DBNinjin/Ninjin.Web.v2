@@ -1,5 +1,9 @@
 {
-	"name": "ninjin.sk",
+	"name": "dbninjin.svelte",
+	"description": "New version of the Ninjin website now in version 2 with a new framework.",
+	"author": "AnotherFrench <https://anotherfrench.github.io>",
+	"bugs": "<https://github.com/orgs/NinjinMC/discussions/categories/bugs>",
+	"licence": "GPL-3.0",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
