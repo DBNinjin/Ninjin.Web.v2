@@ -3,7 +3,7 @@ export function load({ cookies }) {
 
 	if (!revertNinjinLogo || revertNinjinLogo === 'false') {
 		cookies.set('ninjin_af#eg@api/activate-revert-logo', 'true', {
-			path: '/api/activate-revert-logo',
+			path: '/',
 			httpOnly: true,
 			sameSite: 'strict',
 			maxAge: 60 * 60 * 24 * 30

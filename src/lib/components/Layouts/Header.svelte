@@ -1,6 +1,5 @@
 <script>
 	// @ts-nocheck
-
 	import { page } from '$app/stores';
 	import {
 		Button,
@@ -37,7 +36,7 @@
 </script>
 
 <header>
-	<nav class="bg-[#191e14] shadow">
+	<nav class="bg-opacity-50 bg-[#191e14] shadow">
 		<div class="container flex items-center justify-center p-3.5 mx-auto capitalize">
 			<div class="large-screen hidden md:block">
 				{#each links as link}

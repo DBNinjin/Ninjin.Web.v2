@@ -17,7 +17,7 @@
 		},
 		{
 			name: 'Télécharger le Launcher',
-			url: '/api/redirect?to=launcher-download',
+			url: '/api/redirect?to=download/launcher',
 			icon: logoNinjin
 		}
 	];

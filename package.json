@@ -4,6 +4,7 @@
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
+		"dev:expose": "vite dev --host",
 		"build": "vite build",
 		"preview": "vite preview",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json",
@@ -36,6 +37,7 @@
 		"@popperjs/core": "^2.11.8",
 		"flowbite": "^2.4.1",
 		"flowbite-svelte": "^0.46.15",
+		"svelte-device-info": "^1.0.5",
 		"tailwind-merge": "^2.4.0"
 	}
 }

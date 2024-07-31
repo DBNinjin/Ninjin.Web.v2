@@ -1,13 +1,21 @@
 <script>
 	import map from '$lib/assets/images/ninjin_map.png';
+	import BigVideoOrImage from '$lib/components/Pages/BigVideoOrImage.svelte';
 </script>
 
-<h2 class="text-center text-4xl">Map</h2>
+<h1 class="text-5xl font-extrabold mb-5">
+	Map<small class="ms-2 font-semibold">de DB Ninjin</small>
+</h1>
+
 <p class="text-center text-lg mt-4">
 	Voici la map du serveur, les dimensions sont 10000x8000 blocks.
 </p>
-<div class="flex justify-center mt-6">
-	<a href={map} target="_blank" rel="noopener noreferrer" title="Voir la map en plein écran">
-		<img src={map} alt="map" draggable="false" class="w-full max-w-3xl h-auto rounded-lg" />
-	</a>
-</div>
+
+<BigVideoOrImage
+	url={map}
+	video_or_image="image"
+	link_global={true}
+	name="map"
+	title="Voir la map en plus grande"
+	target="_blank"
+/>
