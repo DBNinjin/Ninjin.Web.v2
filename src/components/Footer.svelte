@@ -25,7 +25,7 @@
 
 <div class="mt-[5vh]">
 	<footer
-		class="fixed bottom-0 left-0 z-20 w-full p-2 bg-[#191e14] text-neutral-200 shadow md:flex md:items-center md:justify-between md:p-2"
+		class="bg-opacity-50 shadow fixed bottom-0 left-0 z-20 w-full p-2 bg-[#191e14] text-neutral-200 shadow md:flex md:items-center md:justify-between md:p-2"
 	>
 		<span class="text-sm sm:text-center">
 			<small>

@@ -46,7 +46,7 @@
 						title={link.name}
 						rel="noopener"
 						target="_self"
-						class={`mx-1.5 sm:mx-6 ${
+						class={`mx-1.5 sm:mx-6 font-bold ${
 							link.url === $page.url.pathname
 								? 'text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-yellow-400 hover:from-red-300 hover:to-yellow-200'
 								: 'text-neutral-300 hover:text-neutral-100'
@@ -69,7 +69,7 @@
 							title={link.name}
 							rel="noopener"
 							target="_self"
-							class={`font-medium py-2 px-4 text-sm hover:bg-[#192809] ${
+							class={`font-medium py-2 px-4 text-sm hover:bg-[#192809] font-bold ${
 								link.url === $page.url.pathname
 									? 'text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-yellow-400 hover:from-red-300 hover:to-yellow-200'
 									: 'text-neutral-300 hover:text-neutral-100'

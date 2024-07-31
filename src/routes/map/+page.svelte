@@ -7,5 +7,7 @@
 	Voici la map du serveur, les dimensions sont 10000x8000 blocks.
 </p>
 <div class="flex justify-center mt-6">
-	<img src={map} alt="map" draggable="false" class="w-full max-w-3xl h-auto rounded-lg" />
+	<a href={map} target="_blank" rel="noopener noreferrer" title="Voir la map en plein écran">
+		<img src={map} alt="map" draggable="false" class="w-full max-w-3xl h-auto rounded-lg" />
+	</a>
 </div>
