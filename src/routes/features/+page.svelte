@@ -46,6 +46,11 @@
 	];
 </script>
 
+<MetaData
+	title="Nos features"
+	description="Sur cette page, vous allez en apprendre plus sur les features du serveur Minecraft DB Ninjin ainsi que nos priorités de développement."
+/>
+
 <h1 class="text-5xl font-extrabold mb-5">
 	<small class="ms-2 font-semibold">Les</small> Features<small class="ms-2 font-semibold"
 		>de DB Ninjin ?</small

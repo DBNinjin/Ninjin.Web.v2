@@ -3,6 +3,11 @@
 	import BigVideoOrImage from '$lib/components/Pages/BigVideoOrImage.svelte';
 </script>
 
+<MetaData
+	title="Map"
+	description="Sur cette page, vous allez pouvoir observer la map du serveur Minecraft avec tout les points réellement importants de noter."
+/>
+
 <h1 class="text-5xl font-extrabold mb-5">
 	Map<small class="ms-2 font-semibold">de DB Ninjin</small>
 </h1>

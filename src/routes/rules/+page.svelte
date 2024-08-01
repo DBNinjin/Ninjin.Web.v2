@@ -2,6 +2,11 @@
 	import DiscordChannel from '$lib/components/Pages/DiscordChannel.svelte';
 </script>
 
+<MetaData
+	title="Règlement"
+	description="Sur cette page, vous allez pouvoir prendre connaissance du règlement qui régit DB Ninjin."
+/>
+
 <h1 class="text-5xl font-extrabold mb-5">
 	<small class="ms-2 font-semibold">Les</small> Règles<small class="ms-2 font-semibold"
 		>de DB Ninjin</small
