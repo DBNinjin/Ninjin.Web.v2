@@ -48,10 +48,11 @@
 	<meta name="description" content={description} />
 	<meta property="og:description" content={description} />
 	<meta property="twitter:description" content={description} />
-	<meta
+	<!--<meta
 		name="author"
 		content={`Web V2: AnotherFrench.vercel.app (@AnotherFrench) / Server: Hedaox (@Hedaox) & Xamora`}
-	/>
+	/>-->
+	<link type="text/plain" rel="author" href="https://ninjin.eu.org/humans.txt" />
 	<meta property="og:site_name" content="Dragon Ball Ninjin" />
 	{#if image}
 		<meta property="og:image" content={image} />

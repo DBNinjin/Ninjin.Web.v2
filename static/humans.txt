@@ -1,0 +1,28 @@
+/* WEB */
+    /* v2 (current) */
+    Main Developer: AnotherFrench
+    GitHub: @AnotherFrench
+    From: France
+
+    /* v1 */
+    Chef & Developer: Hedaox
+    GitHub: @Hedaox
+    From: France
+
+    Helper Developer: AnotherFrench
+    GitHub: @AnotherFrench
+    From: France
+
+/* GAME SERVER */
+    Founder: Hedaox
+    GitHub: @Hedaox
+    From: France
+
+    Founder: Xamora
+    From: France
+
+/* SITE */
+    Last update: https://github.com/NinjinMC/Ninjin.Web.v2
+    Language: French
+    Doctype: HTML(5)
+    IDE: VSCode
