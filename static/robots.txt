@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://ninjin.eu.org
+Sitemap: https://ninjin.eu.org/sitemap.xml
