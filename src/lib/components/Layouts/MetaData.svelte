@@ -41,6 +41,7 @@
 </script>
 
 <svelte:head>
+	<meta name="robots" content="index, follow" />
 	<title>{`${title} - Dragon Ball Ninjin`}</title>
 	<meta name="title" content={`${title} - Dragon Ball Ninjin`} />
 	<meta property="og:title" content={`${title} - Dragon Ball Ninjin`} />
