@@ -1,7 +1,8 @@
-<MetaData
-	title="'API' - Activate Revert Logo"
-	description="Sur cette page, bah rien..."
-/>
+<script>
+	import MetaData from '$lib/components/Layouts/MetaData.svelte';
+</script>
+
+<MetaData title="'API' - Activate Revert Logo" description="Sur cette page, bah rien..." />
 
 <div
 	class="flex min-h-[50dvh] flex-col items-center justify-center bg-background px-4 py-12 sm:px-6 lg:px-8"

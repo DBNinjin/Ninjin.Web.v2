@@ -15,7 +15,7 @@
 	</span>
 {:else}
 	<a
-		href={`/api/redirect?to=discord&guild_id=${guild_id}&channel_id=${channel_id}`}
+		href={`https://discord.com/channels/${guild_id}/${channel_id}`}
 		title={`Voir le canal ${name} sur Discord`}
 		target="_blank"
 		rel="noopener"

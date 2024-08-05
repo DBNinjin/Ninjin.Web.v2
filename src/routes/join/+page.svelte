@@ -36,7 +36,7 @@
 
 <p class="text-center text-lg mt-4">
 	En cas de crash, vérifiez que vous avez bien <a
-		href="/api/redirect?to=download/java"
+		href="https://javadl.oracle.com/webapps/download/AutoDL?BundleId=238729_478a62b7d4e34b78b671c754eaaf38ab"
 		title="Télécharger Java en 64 bit."
 		rel="noopener"
 		target="_self"><b>Java 64 bit</b></a

@@ -7,17 +7,17 @@
 	const iconLinks = [
 		{
 			name: 'Rejoindre notre Discord',
-			url: '/api/redirect?to=discord',
+			url: 'https://discord.gg/JcbAENk',
 			icon: logoDiscord
 		},
 		{
 			name: 'Regarder nous sur YouTube',
-			url: '/api/redirect?to=youtube',
+			url: 'https://www.youtube.com/channel/UCRQcMWRLBLC-jj1XvyCv7yA',
 			icon: logoYoutube
 		},
 		{
 			name: 'Télécharger le Launcher',
-			url: '/api/redirect?to=download/launcher',
+			url: 'https://github.com/Hedaox/Ninjin/raw/master/download/NinjinLauncherBootstrap.jar',
 			icon: logoNinjin
 		}
 	];
@@ -31,7 +31,7 @@
 			<small>
 				{currentYears} ©
 				<a
-					href="/api/redirect?to=github-dev"
+					href="https://github.com/anotherfrench"
 					title="Voir le Profil GitHub"
 					target="_blank"
 					rel="noopener"
@@ -41,7 +41,7 @@
 				</a>
 				pour
 				<a
-					href="/api/redirect?to=github&repo=web-v2"
+					href="https://github.com/NinjinMC/Ninjin.Web.v2"
 					title="Voir le Repo GitHub"
 					target="_blank"
 					rel="noopener"

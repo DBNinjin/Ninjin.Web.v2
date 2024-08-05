@@ -16,12 +16,14 @@
 	 */
 	export let description;
 
+	var ogImage = 'https://dynamic-og-image-generator.vercel.app/api/generate';
+	var avatar = 'https://ninjin.eu.org/assets/images/ninjin_avatar.png';
 	/**
 	 * @type {any}
 	 * @default null
 	 * @optional
 	 */
-	export let image = `/api/og-images?title=${title.replaceAll(' ', '+')}&path=${$page.url.hostname}${$page.url.pathname == '/' ? '/' : $page.url.pathname}`;
+	export let image = `${ogImage}?title=${title}&author=Dragon+Ball+Ninjin&avatar=${avatar}&websiteUrl=${url}&theme=Default`;
 
 	/**
 	 * @type {any}
