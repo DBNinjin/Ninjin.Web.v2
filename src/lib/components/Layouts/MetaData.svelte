@@ -1,6 +1,6 @@
 <script>
 	import { page } from '$app/stores';
-	let url = `ninjin.eu.org${$page.url.pathname == '/' ? '' : $page.url.pathname}`;
+	let url = `https://ninjin.eu.org${$page.url.pathname == '/' ? '' : $page.url.pathname}`;
 
 	/**
 	 * @type {string}

@@ -25,10 +25,10 @@
 
 		if (isPC) {
 			document.body.style.overflow = 'hidden';
-			console.log('Running on a PC device, overflow is disabled');
+			console.log('[Infos] Running on a PC device, overflow is disabled');
 		} else {
 			document.body.style.overflow = 'auto';
-			console.log('Running on a mobile device, overflow is auto');
+			console.log('[Infos] Running on a mobile device, overflow is auto');
 		}
 	});
 
