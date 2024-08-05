@@ -1,6 +1,7 @@
 <script>
 	import { Tooltip } from 'flowbite-svelte';
 	import FeaturesText from '$lib/components/Pages/FeaturesText.svelte';
+	import MetaData from '$lib/components/Layouts/MetaData.svelte';
 
 	const mods = [
 		{

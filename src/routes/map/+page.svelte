@@ -1,5 +1,6 @@
 <script>
 	import map from '$lib/assets/images/ninjin_map.png';
+	import MetaData from '$lib/components/Layouts/MetaData.svelte';
 	import BigVideoOrImage from '$lib/components/Pages/BigVideoOrImage.svelte';
 </script>
 

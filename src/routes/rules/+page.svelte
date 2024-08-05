@@ -1,4 +1,5 @@
 <script>
+	import MetaData from '$lib/components/Layouts/MetaData.svelte';
 	import DiscordChannel from '$lib/components/Pages/DiscordChannel.svelte';
 </script>
 

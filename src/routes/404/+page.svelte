@@ -1,3 +1,12 @@
+<script>
+	import MetaData from '$lib/components/Layouts/MetaData.svelte';
+</script>
+
+<MetaData
+	title="Erreur 404"
+	description="Sur cette page, tu voie juste une foutu erreur 404, tu crois que je suis une théière ?"
+/>
+
 <div
 	class="flex min-h-[50dvh] flex-col items-center justify-center bg-background px-4 py-12 sm:px-6 lg:px-8"
 >
