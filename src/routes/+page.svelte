@@ -5,6 +5,7 @@
 <script>
 	import { onMount } from 'svelte';
 	import BigVideoOrImage from '$lib/components/Pages/BigVideoOrImage.svelte';
+	import MetaData from '$lib/components/Layouts/MetaData.svelte';
 	onMount(() => {
 		let isPC;
 		switch (true) {
@@ -35,6 +36,11 @@
 		'text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-orange-500 to-yellow-500';
 	var smallCss = 'ms-2 font-semibold';
 </script>
+
+<MetaData
+	title="Accueil"
+	description="Sur cette page, vous retrouverez le trailer du serveur Dragon Ball Ninjin ainsi qu'une courte présentation."
+/>
 
 <h1 class="text-5xl font-extrabold mb-5">
 	<span class={spanCss}>Dragon Ball Ninjin</span><small class={smallCss}>est un serveur DB</small>
