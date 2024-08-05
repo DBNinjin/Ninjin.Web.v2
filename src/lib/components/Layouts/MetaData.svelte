@@ -69,10 +69,4 @@
 	{/if}
 	<meta property="og:url" content={url} />
 	<meta property="twitter:url" content={url} />
-	<link
-		rel="sitemap"
-		type="application/xml"
-		title="Dragon Ball Ninjin - Sitemap"
-		href="/sitemap.xml"
-	/>
 </svelte:head>
