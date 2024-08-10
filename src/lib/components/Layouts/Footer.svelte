@@ -41,7 +41,7 @@
 				</a>
 				pour
 				<a
-					href="https://github.com/NinjinMC/Ninjin.Web.v2"
+					href="https://github.com/DBNinjin/Ninjin.Web.v2"
 					title="Voir le Repo GitHub"
 					target="_blank"
 					rel="noopener"
