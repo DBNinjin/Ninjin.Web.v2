@@ -31,13 +31,13 @@
 			<small>
 				{currentYears} ©
 				<a
-					href="https://github.com/anotherfrench"
+					href="https://github.com/kyudle"
 					title="Voir le Profil GitHub"
 					target="_blank"
 					rel="noopener"
 					class="hover:underline"
 				>
-					AnotherFrench
+					Kyudle
 				</a>
 				pour
 				<a
