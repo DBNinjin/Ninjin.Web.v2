@@ -1,7 +1,7 @@
 /* WEB */
     /* v2 (current) */
-    Main Developer: AnotherFrench
-    GitHub: @AnotherFrench
+    Main Developer: Kyuddle
+    GitHub: @Kyuddle
     From: France
 
     /* v1 */
@@ -9,8 +9,8 @@
     GitHub: @Hedaox
     From: France
 
-    Helper Developer: AnotherFrench
-    GitHub: @AnotherFrench
+    Helper Developer: Kyuddle
+    GitHub: @Kyuddle
     From: France
 
 /* GAME SERVER */
