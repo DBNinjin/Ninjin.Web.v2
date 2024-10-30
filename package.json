@@ -49,7 +49,7 @@
 	"dependencies": {
 		"@popperjs/core": "^2.11.8",
 		"flowbite": "^2.5.1",
-		"flowbite-svelte": "^0.46.22",
+		"flowbite-svelte": "^0.47.2",
 		"svelte-device-info": "^1.0.5",
 		"tailwind-merge": "^2.5.4"
 	}
