@@ -31,13 +31,13 @@
 			<small>
 				{currentYears} ©
 				<a
-					href="https://github.com/saryniel"
+					href="https://github.com/Nuiqka"
 					title="Voir le Profil GitHub"
 					target="_blank"
 					rel="noopener"
 					class="hover:underline"
 				>
-					Saryniel
+					Nuiqka
 				</a>
 				pour
 				<a
