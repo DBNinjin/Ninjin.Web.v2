@@ -22,9 +22,9 @@
 		}
 
 		if (isReverted) {
-			console.log('[Infos] Running a reverted logo version, Nuiqka's EG is enabled');
+			console.log('[Infos] Running a reverted logo version, Nuiqka\'s EG is enabled');
 		} else {
-			console.log('[Infos] Running a normal logo version, Nuiqka's EG is disabled');
+			console.log('[Infos] Running a normal logo version, Nuiqka\'s EG is disabled');
 		}
 	});
 </script>
