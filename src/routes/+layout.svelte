@@ -8,7 +8,7 @@
 	import logoHeaderRevert from '$lib/assets/images/logo_header_revert.png';
 
 	let isReverted = false;
-	const cookieName = 'ninjin_af#eg@api/activate-revert-logo';
+	const cookieName = 'ninjin_nuiqka#eg@api/activate-revert-logo';
 
 	onMount(() => {
 		// Vérifie si le cookie est déjà présent
@@ -22,9 +22,9 @@
 		}
 
 		if (isReverted) {
-			console.log('[Infos] Running a reverted logo version, EG is enabled');
+			console.log('[Infos] Running a reverted logo version, Nuiqka's EG is enabled');
 		} else {
-			console.log('[Infos] Running a normal logo version, EG is disabled');
+			console.log('[Infos] Running a normal logo version, Nuiqka's EG is disabled');
 		}
 	});
 </script>
