@@ -8,7 +8,7 @@
 	import logoHeaderRevert from '$lib/assets/images/logo_header_revert.png';
 
 	let isReverted = false;
-	const cookieName = 'ninjin_nuiqka#eg@api/activate-revert-logo';
+	const cookieName = 'ninjin#eg@api/activate-revert-logo';
 
 	onMount(() => {
 		// Vérifie si le cookie est déjà présent
