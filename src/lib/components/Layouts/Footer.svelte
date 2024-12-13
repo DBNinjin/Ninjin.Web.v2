@@ -31,13 +31,13 @@
 			<small>
 				{currentYears} ©
 				<a
-					href="https://github.com/Luneuh"
+					href="https://github.com/Leckau"
 					title="Voir le Profil GitHub"
 					target="_blank"
 					rel="noopener"
 					class="hover:underline"
 				>
-					Luneuh
+					Leckau
 				</a>
 				pour
 				<a
