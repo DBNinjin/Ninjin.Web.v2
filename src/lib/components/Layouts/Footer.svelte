@@ -31,13 +31,13 @@
 			<small>
 				{currentYears} ©
 				<a
-					href="https://github.com/Seaqk"
+					href="https://github.com/seashix"
 					title="Voir le Profil GitHub"
 					target="_blank"
 					rel="noopener"
 					class="hover:underline"
 				>
-					Seaqk
+					Seashix
 				</a>
 				pour
 				<a
