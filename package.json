@@ -48,7 +48,7 @@
 	"type": "module",
 	"dependencies": {
 		"@popperjs/core": "^2.11.8",
-		"flowbite": "^2.5.1",
+		"flowbite": "^3.1.2",
 		"flowbite-svelte": "^0.47.4",
 		"svelte-device-info": "^1.0.6",
 		"tailwind-merge": "^2.5.5"
