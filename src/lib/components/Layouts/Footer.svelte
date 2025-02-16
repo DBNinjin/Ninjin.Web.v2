@@ -31,13 +31,13 @@
 			<small>
 				{currentYears} ©
 				<a
-					href="https://github.com/seashix"
+					href="https://redirect.tenqah.com/github"
 					title="Voir le Profil GitHub"
 					target="_blank"
 					rel="noopener"
 					class="hover:underline"
 				>
-					Seashix
+					Tenqah
 				</a>
 				pour
 				<a
