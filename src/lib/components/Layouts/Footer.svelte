@@ -31,13 +31,13 @@
 			<small>
 				{currentYears} ©
 				<a
-					href="https://redirect.tenqah.com/github"
+					href="https://github.com/nevcapy"
 					title="Voir le Profil GitHub"
 					target="_blank"
 					rel="noopener"
 					class="hover:underline"
 				>
-					Tenqah
+					Nevcapy
 				</a>
 				pour
 				<a
