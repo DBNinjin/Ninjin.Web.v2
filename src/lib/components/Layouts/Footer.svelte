@@ -31,13 +31,13 @@
 			<small>
 				{currentYears} ©
 				<a
-					href="https://github.com/nevcapy"
+					href="https://github.com/saukye"
 					title="Voir le Profil GitHub"
 					target="_blank"
 					rel="noopener"
 					class="hover:underline"
 				>
-					Nevcapy
+					Saukye
 				</a>
 				pour
 				<a
