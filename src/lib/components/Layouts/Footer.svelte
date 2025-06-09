@@ -31,13 +31,13 @@
 			<small>
 				{currentYears} ©
 				<a
-					href="https://github.com/saukye"
+					href="https://kryscau.github.io"
 					title="Voir le Profil GitHub"
 					target="_blank"
 					rel="noopener"
 					class="hover:underline"
 				>
-					Saukye
+					Kryscau
 				</a>
 				pour
 				<a
